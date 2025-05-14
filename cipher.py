@@ -1,3 +1,4 @@
+
 def caesar_cipher(text, shift, mode):
     """
     Encrypts or decrypts text using the Caesar Cipher algorithm.
