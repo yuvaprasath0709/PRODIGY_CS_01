@@ -46,46 +46,10 @@ To run this project, you need to have Python 3 installed on your system.
         sudo apt update
         sudo apt install python3
         ```
-2.  **Clone the Repository:**
-
-    Clone the repository to your local machine using Git:
-
-    ```bash
-    git clone [Your GitHub Repository Link]
-    ```
-
-3.  **Navigate to the Project Directory:**
-
-    ```bash
-    cd [Project Directory Name]
-    ```
-
-4.  **Run the Program:**
+2.  **Run the Program:**
 
     ```bash
     python caesar_cipher.py
     ```
 
-    Follow the prompts to encrypt or decrypt text.
-
-## Usage
-
-1.  Clone the repository to your local machine:
-
-    ```bash
-    git clone [Your GitHub Repository Link]
-    ```
-
-2.  Navigate to the project directory:
-
-    ```bash
-    cd [Project Directory Name]
-    ```
-
-3.  Run the program:
-
-    ```bash
-    python caesar_cipher.py
-    ```
-
-4.  Follow the prompts to encrypt or decrypt text.
+    Follow the prompts to encrypt or decrypt text.   
