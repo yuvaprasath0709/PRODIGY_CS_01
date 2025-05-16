@@ -49,7 +49,7 @@ To run this project, you need to have Python 3 installed on your system.
 2.  **Run the Program:**
 
     ```bash
-    python caesar_cipher.py
+    python cipher.py
     ```
 
     Follow the prompts to encrypt or decrypt text.   
